@@ -1,0 +1,17 @@
+.item {
+    border-radius: 3px solid red;
+}
+
+.click {
+    cursor: pointer;
+    transition: .7s;
+}
+
+.click:hover {
+    transform: scale(1.1);
+}
+
+
+.bottone {
+    width: 200px;
+}

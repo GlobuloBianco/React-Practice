@@ -1,0 +1,21 @@
+.carta {
+    min-width: 300px;
+    width: 10%;
+    margin: 1em;
+    text-align: center;
+    border: 5px solid blue;
+    padding: 1em;
+    border-radius: 20px;
+    aspect-ratio: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.component {
+    height: 100vh;
+}
+
+.component.light > .card-wrap > div {
+    border: 5px solid red;
+  }

@@ -1,0 +1,17 @@
+.App {
+    height: 100vh;
+    width: 100vw;
+    background-color: #181818;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+.animate {
+    transition: 1s ease;
+}
+
+.light {
+    color: #181818;
+    background-color: rgb(255, 207, 117);
+}
